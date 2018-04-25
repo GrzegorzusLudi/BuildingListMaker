@@ -1,0 +1,55 @@
+Empire State Building	New York City	New York City
+Chrysler Building	New York City	New York City
+70 Pine	New York City	New York City
+The Trump Building	New York City	New York City
+GE Building	New York City	New York City
+Woolworth Building	New York City	New York City
+20 Exchange Place	New York City	New York City
+Terminal Tower	Cleveland	Cleveland
+Metropolitan Life Tower	New York City	New York City
+500 Fifth Avenue	New York City	New York City
+Moscow State University	Moscow	Moscow
+Palace of Culture and Science	Warsaw	Warsaw
+One Chase Manhattan Plaza	New York City	New York City
+MetLife Building	New York City	New York City
+John Hancock Center	Chicago	Chicago
+Chase Tower	Chicago	Chicago
+U.S. Steel Tower	Pittsburgh	Pittsburgh
+World Trade Center	New York City	New York City
+Transamerica Pyramid	San Francisco	San Francisco
+Aon Center	Chicago	Chicago
+Aon Center	Los Angeles	Los Angeles
+Willis Tower	Chicago	Chicago
+Renaissance Tower	Dallas	Dallas
+First Canadian Place	Toronto	Toronto
+Citigroup Center	New York City	New York City
+JPMorgan Chase Tower	Houston	Houston
+Wells Fargo Plaza	Houston	Houston
+US Bank Tower	Los Angeles	Los Angeles
+Bank of China Tower	Hong Kong	Hong Kong
+Two Prudential Plaza	Chicago	Chicago
+Central Plaza	Hong Kong	Hong Kong
+Ryugyong Hotel	Pyongyang	Pyongyang
+Bank of America Plaza	Atlanta	Atlanta
+Shun Hing Square	Shenzhen	Shenzhen
+Tuntex Sky Tower	Kaohsiung	Kaohsiung
+Petronas Tower 1	Kuala Lumpur	Kuala Lumpur
+Petronas Tower 2	Kuala Lumpur	Kuala Lumpur
+The Center	Hong Kong	Hong Kong
+Jin Mao Tower	Shanghai	Shanghai
+Emirates Office Tower	Dubai	Dubai
+Two International Finance Centre	Hong Kong	Hong Kong
+Taipei 101	Taipei	Taipei
+Shanghai World Financial Center	Shanghai	Shanghai
+Burj Khalifa	Dubai	Dubai
+International Commerce Centre	Hong Kong	Hong Kong
+Guangzhou International Finance Center	Guangzhou	Guangzhou
+KK100	Shenzhen	Shenzhen
+Makkah Royal Clock Tower Hotel	Mecca	Mecca
+Shanghai Tower	Shanghai	Shanghai
+CTF Finance Centre	Guangzhou	Guangzhou
+Guangzhou CTF Finance Centre	Guangzhou	Guangzhou
+Ping An Finance Center	Shenzhen	Shenzhen
+Lotte World Tower	Seoul	Seoul
+Tianjin CTF Finance Centre	Tianjin	Tianjin
+China Zun	Beijing	Beijing

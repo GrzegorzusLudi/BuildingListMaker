@@ -1,0 +1,14 @@
+What is need to run the script:
+
+-tkinter and Pillow libraries
+-file with list of buildings named "output.txt", where records are stored in rows, where rows are separated by tabs in this way:
+
+Name of building	City	height	date of appearance	date of disappearance (optional)
+
+for example:
+
+World Trade Center	New York City	417	1971	2001 
+
+-files which have the same names as the the building declared in the list, for example "World Trade Center.png", their scale doesn't matter
+-files with country flags (you must )
+-a folder named "years" where subsequent frames of animation are created (if you are working on linux you must change \\ to / in line 176)

@@ -1,0 +1,1002 @@
+﻿
+Burj Khalifa	Dubai	828.00	2010 
+Shanghai Tower	Shanghai	632.11	2015 
+Makkah Royal Clock Tower Hotel	Mecca	601.00	2013 
+Ping An Finance Center	Shenzhen	599.05	2017 
+Lotte World Tower	Seoul	554.47	2017 
+CTF Finance Centre	Guangzhou	530.00	2016 
+Taipei 101	Taipei	509.20	2004 
+Shanghai World Financial Center	Shanghai	492.00	2008 
+International Commerce Centre	Hong Kong	484.00	2010 
+Petronas Tower	Kuala Lumpur	451.90	1998 
+Willis Tower	Chicago	442.14	1974 
+KK100	Shenzhen	441.80	2011 
+Guangzhou International Finance Center	Guangzhou	438.60	2010 
+Wuhan Center	Wuhan	438.00	2017 
+432 Park Avenue	New York City	425.50	2015 
+Marina 101	Dubai	425.00	2017 
+Jin Mao Tower	Shanghai	420.53	1999 
+One World Trade Center	New York City	546.69	2014 
+Princess Tower	Dubai	413.36	2012 
+Al Hamra Tower	Kuwait City	412.60	2011 
+Two International Finance Centre	Hong Kong	412.00	2003 
+23 Marina	Dubai	392.49	2012 
+Capital Market Authority Headquarters	Riyadh	385.00	2017 
+Eton Place Dalian Tower 1	Dalian	383.15	2015 
+Burj Mohammed Bin Rashid Tower	Abu Dhabi	381.21	2014 
+Empire State Building	New York City	381.00	1931 
+紫峰大厦	Nanjing	381.00	2010 
+Elite Residence	Dubai	380.49	2012 
+Central Plaza	Hong Kong	374.00	1992 
+Vostok	Moscow	373.70	2017 
+Dalian International Trade Center	Dalian	370.10	2017 
+Address Boulevard	Dubai	368.00	2017 
+Bank of China Tower	Hong Kong	367.40	1990 
+Trump International Hotel & Tower	Chicago	366.07	2009 
+JW Marriott Marquis Hotel Dubai Tower 1	Dubai	355.35	2012 
+JW Marriott Marquis Hotel Dubai Tower 2	Dubai	355.35	2013 
+Emirates Office Tower	Dubai	354.60	2000 
+16a IBC Tower 1	Moscow	354.18	2015 
+The Torch	Dubai	353.81	2011 
+Forum 66 Tower 1	Shenyang	350.60	2015 
+The Pinnacle	Guangzhou	350.30	2012 
+Tuntex Sky Tower	Kaohsiung	347.50	1997 
+Aon Center, Chicago	Chicago	346.26	1973 
+The Center	Hong Kong	346.00	1998 
+Xiamen Cross Strait Financial Centre	Xiamen	343.88	2017 
+John Hancock Center	Chicago	343.69	1969 
+ADNOC Headquarters	Abu Dhabi	342.00	2015 
+Ahmed Abdul Rahim Al Attar Tower	Dubai	342.00	2017 
+Wuxi International Finance Square	Wuxi	339.00	2014 
+Chongqing World Financial Center	Chongqing	338.90	2015 
+Mercury City Tower	Moscow	338.82	2013 
+Tianjin Modern City Office Tower	Tianjin	338.00	2016 
+Tianjin Global Financial Center	Tianjin	336.90	2011 
+DAMAC Residenze	Dubai	335.29	2017 
+Huaguoyuan Tower 2	Guiyang	335.00	2017 
+Huaguoyuan Tower 1	Guiyang	335.00	2017 
+Rose Tower	Dubai	333.02	2007 
+Minsheng Bank Building	Wuhan	331.32	2007 
+Ryugyong Hotel	Pyongyang	330.02	1992
+China World Tower	Beijing	330.00	2010 
+Hon Kwok City Center	Shenzhen	329.40	2017 
+Keangnam Hanoi Landmark Tower	Hanoi	329.00	2012 
+Wuxi Suning Plaza 1	Wuxi	328.00	2014 
+Al Yaqoub Tower	Dubai	328.00	2013 
+Longxi International Hotel	Wuxi	328.00	2011 
+The Index	Dubai	326.00	2010 
+Shun Hing Square	Shenzhen	325.00	1996 
+The Landmark	Abu Dhabi	324.00	2013 
+Deji Plaza	Nanjing	324.00	2013 
+CITIC Plaza	Guangzhou	323.00	1997 
+Yantai Shimao 1	Yantai	323.00	2017 
+Q1 Tower	Gold Coast City	322.50	2005 
+Wenzhou Trade Center	Wenzhou	321.90	2011 
+Guangxi Finance Plaza	Nanning	321.00	2017 
+Burj Al Arab	Dubai	320.96	1999 
+Nina Tower	Hong Kong	320.40	2006 
+Sinar Mas Center 1	Shanghai	319.56	2017 
+Chrysler Building	New York City	318.92	1930 
+Global City Square	Guangzhou	318.90	2016 
+Jiuzhou International Tower	Nanning	318.00	2017 
+Fanya International Finance Building North	Kunming	317.80	2016 
+Fanya International Finance Building South	Kunming	317.80	2016 
+HHHR Tower	Dubai	317.60	2010 
+China World Trade Center Tower 3B	Beijing	316.00	2017 
+Chongqing IFS T1	Chongqing	316.00	2016 
+Yuexiu Fortune Center 1	Wuhan	315.00	2017 
+Youth Olympics Center, Tower 1	Nanjing	314.50	2015 
+MahaNakhon	Bangkok	314.20	2016 
+Bank of America Plaza	Atlanta	311.81	1992 
+Moi Center Tower A	Shenyang	311.00	2014 
+US Bank Tower	Los Angeles	310.29	1989 
+Menara Telekom	Kuala Lumpur	310.00	2001 
+Ocean Heights	Dubai	310.00	2010 
+Poly Pazhou C2	Guangzhou	309.40	2017 
+Fortune Center	Guangzhou	309.40	2015 
+Pearl River Tower	Guangzhou	309.40	2012 
+Jumeirah Emirates Towers Hotel	Dubai	309.00	2000 
+Stalnaya Vershina	Moscow	308.91	2015 
+Diwang International Fortune Center	Liuzhou	306.60	2015 
+Cayan Tower	Dubai	306.37	2013 
+One57	New York City	306.35	2014 
+The Shard	London	306.00	2012 
+East Pacific Center Tower A	Shenzhen	306.00	2013 
+JPMorgan Chase Tower	Houston	305.41	1982 
+Etihad Tower 2	Abu Dhabi	305.30	2011 
+Northeast Asia Trade Tower	Incheon	305.00	2011 
+Baiyoke Tower II	Bangkok	304.00	1997 
+Maoye City Marriott Hotel	Wuxi	303.80	2014 
+Shenzhen CFC Changfu Centre	Shenzhen	303.80	2016 
+Two Prudential Plaza	Chicago	303.28	1990 
+Almas Tower	Dubai	303.00	2008 
+Jiangxi Nanchang Greenland Central Plaza 1	Nanchang	303.00	2015 
+KAFD World Trade Center	Riyadh	303.00	2017 
+Jiangxi Nanchang Greenland Central Plaza 2	Nanchang	303.00	2015 
+Leatop Plaza	Guangzhou	302.70	2012 
+Wells Fargo Plaza	Houston	302.37	1983 
+Kingdom Centre	Riyadh	302.33	2002 
+Capital City Moscow Tower	Moscow	301.59	2010 
+Shenzhen Changcheng Center	Shenzhen	300.80	2014 
+Doosan Haeundae We've the Zenith Tower A	Busan	300.00	2011 
+Gran Torre Costanera	Santiago de Chile	300.00	2014 
+Arraya Tower	Kuwait City	300.00	2009 
+Aspire Tower	Doha	300.00	2007 
+Shum Yip Upperhills Tower 2	Shenzhen	300.00	2017 
+Abeno Harukas	Osaka	300.00	2014 
+Huachuang International Plaza 1	Changsha	300.00	2017 
+One Island East Centre	Hong Kong	298.35	2008 
+First Canadian Place	Toronto	298.10	1976 
+Four World Trade Center	New York City	297.80	2015 
+Eureka Tower	Melbourne	297.28	2006 
+Comcast Center	Philadelphia	296.73	2008 
+Yokohama Landmark Tower	Yokohama	296.33	1993 
+R&F Yingkai Square	Guangzhou	296.20	2014 
+Emirates Crown	Dubai	296.00	2008 
+Shimao Cross-Strait Plaza 2	Xiamen	295.30	2015 
+Khalid Al Attar Tower 2	Dubai	294.00	2011 
+Riverfront Times Square	Shenzhen	293.00	2016 
+311 South Wacker	Chicago	292.92	1990 
+Greenland Puli Center	Jinan	292.90	2014 
+Sky Tower	Abu Dhabi	292.20	2010 
+Haeundae I Park Marina Tower 2	Busan	292.06	2011 
+SEG Plaza	Shenzhen	291.60	2000 
+70 Pine	New York City	290.17	1932 
+Guoco Tower	Singapore	290.00	2016 
+Dongguan TBA Tower	Dongguan	289.00	2013 
+Busan IFC Landmark Tower	Busan	289.00	2014 
+Key Tower	Cleveland	288.65	1991 
+China Chuneng Tower	Shenzhen	288.60	2016 
+Gama Tower	Jakarta	288.60	2016 
+Shaoxing Shimao Crown Plaza	Shaoxing	288.50	2012 
+Plaza 66	Shanghai	288.16	2001 
+One Liberty Place	Philadelphia	288.04	1987 
+Soochow International Plaza East Tower	Huzhou	288.00	2014 
+Yingli International Finance Centre	Chongqing	288.00	2012 
+Soochow International Plaza West Tower	Huzhou	288.00	2014 
+Bank of America Tower	New York City	288.00	2009 
+Kaisa Center	Huizhou	288.00	2015 
+United International Mansion	Chongqing	287.00	2013 
+Chongqing Poly Tower	Chongqing	286.80	2013 
+Four Seasons Hotel and Condominiums	New York City	285.60	2016 
+Millennium Tower	Dubai	285.05	2006 
+Sulafa Tower	Dubai	285.00	2010 
+Tomorrow Square	Shanghai	284.60	2003 
+Columbia Center	Seattle	284.38	1985 
+Trump Ocean Club International Hotel & Tower	Panama City	284.00	2011 
+Three International Finance Center	Seoul	284.00	2012 
+D1 Tower	Dubai	283.99	2015 
+Greenland Zhengzhou Central Plaza South	Zhengzhou	283.90	2017 
+Greenland Zhengzhou Central Plaza North	Zhengzhou	283.90	2017 
+Cheung Kong Centre	Hong Kong	282.83	1999 
+GT Land Landmark Plaza, South Tower	Guangzhou	282.80	2016 
+The Trump Building	New York City	282.55	1930 
+City of Lights C1 Tower	Abu Dhabi	282.10	2015 
+Al Hekma Tower	Dubai	282.00	2015 
+Suzhou RunHua Global Building A	Suzhou	282.00	2010 
+Gate of the Orient	Suzhou	281.80	2015 
+Doosan Haeundae We've the Zenith Tower B	Busan	281.50	2011 
+Excellence Century Center 1	Qingdao	281.00	2016 
+Bank of America Plaza	Dallas	280.72	1985 
+Torre Vitri	Panama City	280.70	2012 
+Zhengzhou Greenland Plaza	Zhengzhou	280.00	2012 
+Excellence Century Plaza Tower 1	Shenzhen	280.00	2010 
+Marina Pinnacle	Dubai	280.00	2011 
+China Resources Center 2	Hefei	280.00	2017 
+UOB Plaza One	Singapore	280.00	1992 
+Eton Place Dalian Tower 2	Dalian	279.50	2015 
+Abraj Al-Bait ZamZam Tower	Mecca	279.00	2012 
+Citigroup Center	New York City	278.90	1977 
+World Trade Center Abu Dhabi - The Offices	Abu Dhabi	278.00	2014 
+OUB Centre	Singapore	277.75	1988 
+Etihad Tower 1	Abu Dhabi	277.61	2011 
+Republic Plaza	Singapore	276.25	1996 
+Abraj Al-Bait Hajar Tower	Mecca	276.00	2012 
+Scotia Plaza	Toronto	275.00	1988 
+Williams Tower	Houston	274.63	1983 
+Ilham Tower	Kuala Lumpur	274.00	2015 
+Nantong Zhongnan International Plaza	Nantong	273.30	2011 
+Shimao International Center Office Tower	Fuzhou	273.00	2013 
+NEO Tower A	Shenzhen	273.00	2011 
+Wuhan World Trade Tower	Wuhan	273.00	1998 
+Haeundae I Park Marina Tower 1	Busan	272.86	2011 
+Lotte Center	Hanoi	272.00	2014 
+Aura at College Park	Toronto	271.90	2014 
+The Address	Dubai	271.20	2008 
+Shanghai Wheelock Square	Shanghai	270.48	2010 
+Franklin Center North Tower	Chicago	270.06	1989 
+Renaissance Tower	Dallas	270.06	1974 
+Greenland Center 1	Xi'an	270.00	2016 
+Tianhui Plaza C3	Guangzhou	270.00	2016 
+Bohai Bank Tower	Tianjin	270.00	2015 
+The Cullinan I	Hong Kong	269.92	2008 
+The Cullinan II	Hong Kong	269.92	2008 
+Four Seasons Hotel	Manama	269.70	2015 
+China International Center Tower B	Guangzhou	269.52	2007 
+Dapeng International Plaza	Guangzhou	269.40	2006
+Tongde Kunming Plaza	Kunming	269.00	2015 
+Naberezhnaya Tower C	Moscow	268.40	2007 
+Binhu Times Square	Hefei	268.00	2017 
+Suzhou Center 1	Suzhou	268.00	2013 
+Nation Towers Residential Lofts	Abu Dhabi	268.00	2012 
+Hi-Tech Greenland Center	Nanchang	268.00	2015 
+Bank of Guangzhou Tower	Guangzhou	267.80	2012 
+10 Hudson Yards	New York City	267.70	2016 
+Petronas Tower 3	Kuala Lumpur	267.00	2012 
+Bicsa Financial Center	Panama City	267.00	2013 
+Fortune Plaza Office Building 1	Beijing	267.00	2013 
+Al Faisaliyah Center	Riyadh	266.86	2000 
+Suning Plaza A	Xuzhou	266.00	2017 
+The Point	Panama City	266.00	2011 
+The River South Tower	Bangkok	265.59	2012 
+Bank of America Corporate Center	Charlotte	265.48	1992 
+900 North Michigan	Chicago	265.48	1989 
+Eight Spruce Street	New York City	265.18	2011 
+Modern Media Center	Changzhou	265.10	2014 
+Al Kazim Tower 2	Dubai	265.00	2008 
+WBC The Palace 1	Busan	265.00	2011 
+Al Kazim Tower 1	Dubai	265.00	2008 
+WBC The Palace 2	Busan	265.00	2011 
+Doosan Haeundae We've the Zenith Tower C	Busan	265.00	2011 
+Hongren Fortune Center	Wuhan	264.60	2016 
+SunTrust Plaza	Atlanta	264.30	1992 
+Triumph-Palace	Moscow	264.10	2005 
+Tower Palace Three, Tower G	Seoul	263.68	2004 
+Ubora Tower 1	Dubai	262.80	2011 
+Bitexco Financial Tower	Ho Chi Minh City	262.50	2010 
+Trump World Tower	New York City	262.44	2001 
+Shenzhen Special Zone Press Tower	Shenzhen	262.00	1998 
+Chongqing World Trade Center	Chongqing	262.00	2005 
+Orient Plaza T1	Chongqing	262.00	2016 
+Water Tower Place	Chicago	261.88	1976 
+66 Tower 2	Shanghai	261.82	2005 
+66 Tower 1	Shanghai	261.82	2005 
+Aqua	Chicago	261.75	2009 
+Aon Center, Los Angeles	Los Angeles	261.52	1973 
+Grand Lisboa	Macau	261.00	2008 
+New York Times Tower	New York City	261.00	2007 
+East Pacific Center Tower B	Shenzhen	261.00	2013 
+Canada Trust Tower	Toronto	260.91	1990 
+Etihad Tower 3	Abu Dhabi	260.34	2011 
+The Vision Tower	Dubai	260.00	2010 
+Yiwu World Trade Center 1	Jinhua	260.00	2016 
+101 Collins Street	Melbourne	260.00	1991 
+Sunny World Center	Shenyang	260.00	2014 
+One Museum Place	Shanghai	260.00	2018 
+Jing An Kerry Centre, Tower 2	Shanghai	260.00	2013 
+Wanxiang City 1	Hangzhou	260.00	2015 
+Yuyang Tower	Fuzhou	260.00	2014 
+Transamerica Pyramid	San Francisco	260.00	1972 
+Guangdong Telecom Plaza	Guangzhou	260.00	2003 
+Shanghai IFC North Tower	Shanghai	259.90	2010 
+Chase Tower	Chicago	259.08	1969 
+GE Building	New York City	259.08	1933 
+Commerzbank Tower	Frankfurt am Main	259.00	1997 
+Grand Hyatt Metrocenter	Taguig	258.50	2016 
+Two Liberty Place	Philadelphia	258.47	1990 
+The Metropolitan Office Tower	Tianjin	258.00	2013 
+Heilan Fortune Center	Wuxi	258.00	2015 
+Zhe Jiang Fortune Finance Center Tower 1	Hangzhou	258.00	2011 
+Lan Kou Grand Hyatt Hotel	Chongqing	258.00	2005 
+Lanko International Complex Yage Tower	Chongqing	258.00	2010 
+Sahid Sudirman Center	Jakarta	258.00	2015 
+Radisson Plaza Hotel Xiaoshan, Tower 1	Hangzhou	258.00	2013 
+Devon Tower	Oklahoma City	257.25	2012 
+The Masterpiece	Hong Kong	257.00	2007 
+St. Petersburg	Moscow	256.90	2010 
+Global Shipping Plaza	Ningbo	256.80	2015 
+MesseTurm	Frankfurt am Main	256.50	1990 
+U.S. Steel Tower	Pittsburgh	256.34	1970 
+Sorrento 1	Hong Kong	256.26	2003 
+Osaka World Trade Center	Osaka	256.00	1995 
+Rinku Gate Tower	Izumisano	256.00	1996 
+Mok-dong Hyperion I, Tower A	Seoul	256.00	2003 
+Chongqing Corporate Avenue 2	Chongqing	255.80	2014 
+Toranomon Hills	Tokyo	255.50	2014 
+Capital Tower	Singapore	255.40	2000 
+New Century Plaza Tower A	Nanjing	255.20	2006 
+Langham Place Office Tower	Hong Kong	255.05	2004 
+Wenzhou Zhixin Plaza	Wenzhou	255.00	2016 
+Youth Olympics Center, Tower 2	Nanjing	255.00	2015 
+Prima Pearl Apartments	Melbourne	254.00	2014 
+AVIC Plaza	Shenzhen	254.00	2012 
+Wongtee Plaza	Shenzhen	253.60	2016 
+Raffles Hotel	Jakarta	253.30	2014 
+Al Fardan Residences	Doha	253.27	2009 
+Burj Rafal	Riyadh	253.10	2014 
+Silver Pacific Place 1	Wuxi	252.70	2017 
+Silver Pacific Place 2	Wuxi	252.70	2017 
+R&F International Business Center 2	Guangzhou	252.60	2016 
+Highcliff	Hong Kong	252.30	2003 
+Trump International Hotel & Tower Toronto	Toronto	252.04	2012 
+Conrad Hotel	Dubai	251.20	2013 
+Park Tower	Chicago	251.16	2000 
+The Harbourside	Hong Kong	251.16	2003 
+Rialto Towers	Melbourne	251.07	1986 
+Jiali Plaza	Wuhan	251.00	1997 
+5 Taian Dao	Tianjin	250.80	2015 
+Hunter Douglas International Plaza	Guiyang	250.30	2015 
+Shimao International Plaza	Shanghai	250.25	2006 
+Diwang International Commerce Center	Nanning	250.25	2006 
+56 Leonard Street	New York City	250.24	2016 
+Centre 66 Tower 1	Wuxi	250.00	2014 
+Altez @ Anson Enggor Street	Singapore	250.00	2014 
+Fusheng Qianlong Plaza	Fuzhou	250.00	2016 
+Raffles City Tower 1	Hangzhou	250.00	2017 
+Raffles City Tower 2	Hangzhou	250.00	2017 
+Chelsea Tower	Dubai	250.00	2005 
+Wisma 46	Jakarta	250.00	1996 
+Gramercy Residences at Century City	Makati	250.00	2013 
+Excellence Century Plaza Tower 2	Shenzhen	250.00	2010 
+Sky Suites @ Anson Enggor Street	Singapore	250.00	2015 
+Park Tower	Beijing	249.95	2007 
+One Atlantic Center	Atlanta	249.94	1987 
+Shimao Cross-Strait Plaza 1	Xiamen	249.90	2015 
+Shanghai IFC South Tower	Shanghai	249.90	2009 
+Lianyungang Road 66	Qingdao	249.90	2017 
+Torre Caja Madrid	Madrid	249.89	2008 
+Haihang International Plaza, Tower A	Haikou	249.80	2014 
+The Legacy at Millennium Park	Chicago	249.56	2010 
+KLI 63 Building	Seoul	249.00	1985 
+The Imperial I	Mumbai	249.00	2010 
+Torre de Cristal	Madrid	249.00	2008 
+The Imperial II	Mumbai	249.00	2010 
+China Merchants Bank Tower	Shenzhen	249.00	2001 
+Central Park	Perth	249.00	1992 
+Xinjiekou Department Store Tower	Nanjing	249.00	2009 
+Infinity	Brisbane	249.00	2014 
+Hwaseong Dongtan Metapolis 101	Hwaseong	248.70	2010 
+Ahuja Towers	Mumbai	248.50	2016 
+CitySpire Center	New York City	248.11	1987 
+Hongdou International Plaza	Wuxi	248.00	2009 
+RunHua International Building	Wuxi	248.00	2009 
+Chengdu IFS Tower 2	Chengdu	248.00	2014 
+Chengdu IFS Tower 1	Chengdu	248.00	2014 
+Poly Business Center Office Tower	Foshan	248.00	2016 
+Yunda Central Plaza St. Regis Hotel	Changsha	248.00	2016 
+Mid Town Tower	Tokyo	247.90	2007 
+One Chase Manhattan Plaza	New York City	247.81	1961 
+Hwaseong Dongtan Metapolis 104	Hwaseong	247.40	2010 
+Jia Fa Centre	Chongqing	247.20	2015 
+State Tower	Bangkok	247.20	2001 
+Midland Square	Nagoya	247.00	2006 
+YooPanama	Panama City	246.80	2013 
+Rolex Tower	Dubai	246.80	2010 
+4 Times Square	New York City	246.59	1999 
+MetLife Building	New York City	246.28	1963 
+Shangbang Leasing Tower	Tianjin	246.00	2016 
+Ningbo Bank of China Headquarters	Ningbo	246.00	2016 
+Kai Yuan World Center	Shijiazhuang	246.00	2012 
+Evolution Tower	Moscow	245.90	2015 
+Shenzhen Stock Exchange Plaza	Shenzhen	245.80	2013 
+Bloomberg Tower	New York City	245.62	2005 
+Federation of Korean Industries Building	Seoul	245.50	2013 
+Westin Chongqing Liberation Square	Chongqing	245.30	2013 
+Longemont Asia Pacific Center Tower B	Shenyang	245.20	2013 
+Longemont Asia Pacific Center Tower A	Shenyang	245.20	2013 
+One Raffles Quay North Tower	Singapore	245.06	2006 
+JR Central Office Tower	Nagoya	245.00	2000 
+Ocean Financial Centre	Singapore	245.00	2011 
+Anhui New Broadcasting & TV Center	Hefei	245.00	2013 
+Torre Reforma	Mexico City	245.00	2016 
+Sinarmas MSIG Tower	Jakarta	245.00	2015 
+Marina Bay Tower	Singapore	245.00	2008 
+Marina Bay Financial Centre Tower 2	Singapore	245.00	2010 
+Shin Kong Life Tower	Taipei	244.76	1993 
+Palm Tower 2	Doha	244.50	2011 
+Palm Tower 1	Doha	244.50	2011 
+City Gate Tower	Ramat Gan	244.00	2001 
+Arenco Tower	Dubai	243.84	2008 
+Yixing Dongjiu Tower	Wuxi	243.80	2012 
+Menara Maybank	Kuala Lumpur	243.54	1988 
+Tokyo Metropolitan Government Building	Tokyo	243.39	1991 
+Soul	Gold Coast City	243.10	2012 
+R&F Centre	Guangzhou	243.05	2007 
+Soleil	Brisbane	243.00	2012 
+Changjiang Media Tower	Wuhan	243.00	2017 
+Dalian Futures Square 1	Dalian	242.80	2010 
+Dalian Futures Square 2	Dalian	242.80	2010 
+The Tower	Dubai	242.60	2002 
+Zapad	Moscow	242.40	2008 
+Neo-China Top City Main Tower	Chongqing	242.40	2009 
+Pearl Tower	Panama City	242.15	2011 
+Waldorf Astoria + Magnolias Ratchaprasong	Bangkok	242.00	2016 
+Hong Kong New World Tower	Shanghai	242.00	2002 
+Nanjing Jinling Hotel Phase 2	Nanjing	242.00	2013 
+CapitaGreen	Singapore	242.00	2015 
+Dalian World Trade Center	Dalian	242.00	2000 
+Q.1	Qingdao	241.90	2017 
+Mellon Bank Center	Philadelphia	241.40	1990 
+Woolworth Building	New York City	241.40	1913 
+IDS Tower	Minneapolis	241.38	1973 
+World Trade Center Doha	Doha	241.10	2013 
+Western IFC Conrad Hotel	Chengdu	241.00	2015 
+PBCOM Tower	Makati	241.00	2000 
+Bank of China Mansion	Qingdao	241.00	1999 
+Hancock Place	Boston	240.79	1976 
+Bucheon Kumho Richensia Tower 1	Bucheon	240.66	2012 
+Bucheon Kumho Richensia Tower 2	Bucheon	240.66	2012 
+Harbour Hotel and Residence Dubai	Dubai	240.50	2007 
+Four Seasons Hotel & Tower	Miami	240.41	2003 
+Central Bank of Kuwait	Kuwait City	240.00	2013 
+United Tower	Kuwait City	240.00	2011 
+GCC Bank Headquarters	Riyadh	240.00	2017 
+21st Century Tower	Dubai	240.00	2003 
+Wanxiang City 2	Hangzhou	240.00	2015 
+Yuexing Universal Mall Tower B	Shanghai	240.00	2014 
+Suzhou RunHua Global Building B	Suzhou	240.00	2010 
+Crystal Tower	Kuwait City	240.00	2014 
+Yuexing Universal Mall Tower A	Shanghai	240.00	2014 
+NTT DoCoMo Yoyogi Building	Tokyo	240.00	2000 
+Moscow State University	Moscow	240.00	1953 
+Sunshine 60 Building	Tokyo	240.00	1978 
+Bahrain World Trade Centre 2	Manama	240.00	2008 
+Bahrain World Trade Centre 1	Manama	240.00	2008 
+Deutsche Bank Place	Sydney	239.93	2005 
+Comerica Bank Tower	Dallas	239.88	1987 
+West Tower at Headquarters Business Park	Jeddah	239.85	2015 
+Duke Energy Center	Charlotte	239.73	2009 
+Mok-dong Hyperion I, Tower B	Seoul	239.31	2003 
+300 North LaSalle	Chicago	239.12	2009 
+Tianjin Junlin Tianxia Building	Tianjin	239.00	2010 
+Beijing TV Centre	Beijing	239.00	2006 
+International Finance Center	Nanchang	239.00	2011 
+Marina Bay Financial Centre Tower 3	Singapore	239.00	2012 
+Commerce Court West	Toronto	239.00	1972 
+Discovery Primea	Makati	238.80	2014 
+Anhui International Trade Center, Tower 1	Hefei	238.80	2013 
+Imperia Tower	Moscow	238.74	2011 
+Qingdao Agora	Qingdao	238.30	2011 
+Roppongi Hills Mori Tower	Tokyo	238.06	2003 
+30 Hudson Street	Jersey City	238.05	2004 
+Runhua International Center	Nantong	238.00	2017 
+Cloud Nine	Shanghai	238.00	2006 
+New World Center	Shenzhen	238.00	2006 
+The Gate Residential Towers	Abu Dhabi	238.00	2013 
+Vista Tower	Kuala Lumpur	238.00	1994 
+Tianjin Xinda Plaza	Tianjin	238.00	2004 
+Bank of America Center	Houston	237.75	1983 
+Qingdao Center, Tower B	Qingdao	237.70	2013 
+Qingdao Center, Tower A	Qingdao	237.70	2013 
+Sun Tower	Abu Dhabi	237.55	2010 
+555 California Street	San Francisco	237.44	1969 
+Arady Office Tower	Dubai	237.20	2015 
+One Worldwide Plaza	New York City	237.14	1989 
+One Lujiazui	Shanghai	237.00	2008 
+Madison Square Park Tower	New York City	237.00	2017 
+The First World Tower 4	Incheon	236.60	2009 
+The First World Tower 1	Incheon	236.60	2009 
+The First World Tower 2	Incheon	236.60	2009 
+The First World Tower 3	Incheon	236.60	2009 
+Capella Tower	Minneapolis	236.53	1992 
+Wells Fargo Center	Minneapolis	236.32	1989 
+The Bow	Calgary	236.00	2012 
+Ocean Two	Panama City	236.00	2010 
+SunnyWorld Center Main Tower	Nanchang	236.00	2014 
+Torre Sacyr Vallehermoso	Madrid	236.00	2008 
+Sorrento 2	Hong Kong	235.71	2003 
+Tamkeen Tower	Riyadh	235.45	2012 
+1201 Third Avenue Tower	Seattle	235.31	1988 
+Huamin Emperor Hotel	Shanghai	235.10	2011 
+One Canada Square	London	235.01	1991 
+Rosewood Dubai	Dubai	235.00	2014 
+Centara Grand	Bangkok	235.00	2008 
+Sapphire	Istanbul	235.00	2010 
+Tianjin International Trade Tower A	Tianjin	235.00	2014 
+Poly Nanhu Plaza 1	Changsha	235.00	2015 
+Churchill Residence	Dubai	235.00	2010 
+Changsha Xinhe Delta Office	Changsha	235.00	2014 
+Torre BBVA Bancomer	Mexico City	234.90	2015 
+191 Peachtree Tower	Atlanta	234.70	1992 
+8 Shenton Way	Singapore	234.70	1986 
+Strait Pearl Plaza	Xiamen	234.60	2017 
+Brookfield Place	Perth	234.40	2012 
+Tokyo Opera City Tower	Tokyo	234.37	1997 
+CCTV Headquarters	Beijing	234.00	2012 
+Reflection Jomtien Beach, Tower A	Pattaya	234.00	2013 
+Torre Paradox	Mexico City	234.00	2017 
+Park Place	Dubai	234.00	2007 
+Ice Condominiums at York Centre 2	Toronto	234.00	2015 
+Etihad Tower 4	Abu Dhabi	234.00	2011 
+Tower Palace One, Tower B	Seoul	233.78	2002 
+Three First National Plaza	Chicago	233.64	1981 
+St. Regis Luxury Hotel	Abu Dhabi	233.23	2013 
+Rivage	Panama City	233.20	2012 
+Southeast Financial Center	Miami	232.80	1984 
+F&F Tower	Panama City	232.70	2011 
+The Harbourfront Landmark	Hong Kong	232.60	2003 
+Shinjuku Park Tower	Tokyo	232.57	1994 
+Abraj Al-Bait Maqam Tower	Mecca	232.40	2012 
+Abraj Al-Bait Qibla Tower	Mecca	232.40	2012 
+Heritage Plaza	Houston	232.26	1987 
+Abraj Al-Bait Marwah Tower	Mecca	232.00	2008 
+Suzhou Xindi Center	Suzhou	232.00	2006 
+1818 Center	Wuhan	232.00	2015 
+Abraj Al-Bait Safa Tower	Mecca	232.00	2007 
+CASC International Center North Tower	Shenzhen	232.00	2015 
+Xindi Center	Nanjing	232.00	2009 
+Torre Waters	Panama City	232.00	2011 
+Mag 218 Tower	Dubai	231.80	2010 
+Menara KOMTAR	Penang Island	231.70	1985 
+Burj Qatar	Doha	231.50	2010 
+Jinao Tower	Nanjing	231.20	2014 
+Tower Financial Center	Panama City	231.00	2011 
+Tour First	Courbevoie	231.00	2011 
+Sankee Plaza	Nanning	231.00	2014 
+The Arch	Hong Kong	231.00	2005 
+Lihe Tower	Shenzhen	230.90	2017 
+Carnegie Hall Tower	New York City	230.74	1991 
+Palace of Culture and Science	Warsaw	230.68	1955 
+The Met	Bangkok	230.56	2009 
+Chicago Title & Trust Building	Chicago	230.48	1992 
+Enterprise Plaza	Houston	230.40	1980 
+Bocom Financial Towers	Shanghai	230.35	2002 
+383 Madison Avenue	New York City	230.25	2001 
+World Tower	Sydney	230.01	2004 
+Regal Palace Hotel	Dongguan	230.00	2007 
+Rongchao Headquarters Tower	Shenzhen	230.00	2017 
+New Victory Hotel	Lanzhou	230.00	2015 
+International Fortune Plaza Tower A	Suzhou	230.00	2016 
+UpperHills North Tower 2A	Shenzhen	230.00	2015 
+Megapólis, Torre 1	Panama City	230.00	2011 
+Bank of Shanghai Headquarters	Shanghai	230.00	2005 
+UpperHills North Tower 1A	Shenzhen	230.00	2015 
+Roppongi Grand Tower	Tokyo	230.00	2016 
+Grand Riviera Suites	Manila	230.00	2014 
+Huanghe River Center Building	Dongguan	230.00	2009 
+Menara BCA	Jakarta	230.00	2008 
+Tanhyun Doosan We've the Zenith 105	Goyang	230.00	2013 
+Fortune Plaza	Ürümqi	229.99	2008 
+1717 Broadway	New York City	229.58	2013 
+Shangri-La at the Fort	Taguig	229.30	2016 
+AXA Center	New York City	229.21	1986 
+Asia Square Tower 1	Singapore	228.95	2011 
+Two California Plaza	Los Angeles	228.60	1992 
+One Penn Plaza	New York City	228.60	1972 
+1251 Avenue of the Americas	New York City	228.60	1971 
+Prudential Tower	Boston	228.60	1964 
+Time Warner Center North Tower	New York City	228.50	2004 
+Time Warner Center South Tower	New York City	228.50	2004 
+Media Tower	Sanmenxia	228.40	2017 
+Gas Company Tower	Los Angeles	228.30	1991 
+Goldman Sachs Headquarters	New York City	228.30	2010 
+Plaza 66 Tower 2	Shanghai	228.16	2006 
+New York New York Tower	Chongqing	228.00	2004 
+Shaanxi Information Mansion	Xi'an	228.00	2006 
+Taiping Finance Tower	Shenzhen	228.00	2015 
+Bofu International Plaza Office Tower	Changsha	228.00	2014 
+Kaina Business Plaza	Changzhou	228.00	2010 
+CITIC Plaza	Shanghai	228.00	2010 
+Dalian Dingsen Center South Tower	Dalian	228.00	2016 
+Dalian Dingsen Center North Tower	Dalian	228.00	2016 
+Future International	Chongqing	228.00	2007 
+MLC Centre	Sydney	228.00	1977 
+Kempinski Hotel Guiyang	Guiyang	228.00	2011 
+Cosco Tower	Hong Kong	227.99	1998 
+Trade Tower	Seoul	227.95	1988 
+The Leaf	Abu Dhabi	227.90	2015 
+Marina Bay Residences	Singapore	227.10	2010 
+60 Wall Street	New York City	227.08	1989 
+One Astor Plaza	New York City	227.08	1972 
+RSA Battle House Tower	Mobile	227.08	2007 
+Al Faisal Tower	Doha	227.03	2011 
+Kingold Century	Guangzhou	227.00	2016 
+One Shangri-La Place, North Tower	Mandaluyong	227.00	2014 
+Governor Phillip Tower	Sydney	227.00	1993 
+One Shangri-La Place, South Tower	Mandaluyong	227.00	2014 
+Marina Bay Suites	Singapore	226.90	2013 
+Empire Tower	Bangkok	226.80	1999 
+The Belcher's Tower 5	Hong Kong	226.73	2001 
+The Belcher's Tower 6	Hong Kong	226.73	2001 
+Blue Cross-Blue Shield Tower	Chicago	226.49	2010 
+One Liberty Plaza	New York City	226.47	1973 
+Seven World Trade Center	New York City	226.47	2006 
+Pullman Shanghai Skyway Hotel	Shanghai	226.01	2007 
+JR Central Hotel Tower	Nagoya	226.00	2000 
+Swissôtel The Stamford	Singapore	226.00	1986 
+North Point, Tower A	Pattaya	226.00	2010 
+Bank of China Tower	Shanghai	226.00	2000 
+20 Exchange Place	New York City	225.86	1931 
+Centerpoint Energy Plaza	Houston	225.86	1974 
+Q Tower	Panama City	225.80	2011 
+Two Union Square	Seattle	225.55	1989 
+Three Logan	Philadelphia	225.25	1991 
+Three World Financial Center	New York City	225.20	1986 
+Suseong Leader's View 1	Daegu	225.00	2010 
+Torre Mayor	Mexico City	225.00	2003 
+Shinjuku Mitsui Building	Tokyo	225.00	1974 
+Al Tayer Tower	Dubai	225.00	2009 
+Suseong Leader's View 2	Daegu	225.00	2010 
+China Merchants Tower	Shenzhen	225.00	2013 
+JP Morgan Chase Tower	Dallas	224.95	1987 
+JAL Hotel	Dubai	224.70	2010 
+The Leadenhall Building	London	224.50	2014 
+Oko Tower 2	Moscow	224.45	2015 
+Torre Espacio	Madrid	224.15	2007 
+Fontainebleau Resort Hotel	Las Vegas	224.03	2008
+Bank of America Plaza	Los Angeles	224.03	1974 
+Al Jawharah Tower	Jeddah	224.00	2014 
+Bourke Place	Melbourne	224.00	1991 
+568 Collins Street	Melbourne	224.00	2015 
+Tanhyun Doosan We've the Zenith 104	Goyang	224.00	2013 
+Hwaseong Dongtan Metapolis 102	Hwaseong	223.80	2010 
+China Resources Building	Chongqing	223.70	2016 
+Al Ayaan Sharjah Gate Tower	Sharjah	223.62	2008 
+1540 Broadway	New York City	223.32	1990 
+Continental Center I	Houston	223.12	1984 
+Farglory International Plaza	Qingdao	223.00	2011 
+Victory Plaza Tower A	Guangzhou	223.00	2007 
+Dual Tower 2	Manama	223.00	2007 
+Dual Tower 1	Manama	223.00	2007 
+Vision Apartments	Melbourne	223.00	2016 
+Millenia Tower	Singapore	223.00	1996 
+World Crest	Mumbai	223.00	2017 
+Olympia Centre	Chicago	222.90	1986 
+TD Tower	Toronto	222.81	1967 
+Shinjuku Center Building	Tokyo	222.81	1979 
+QP District Tower 7	Doha	222.80	2016 
+Carlton Centre	Johannesburg	222.51	1973 
+FMC Tower at Cira Centre South	Philadelphia	222.50	2017 
+World Finance Centre, Tower A	Shenzhen	222.38	2003 
+CSSD Plaza	Suzhou	222.00	2015 
+Panglin Plaza	Shenzhen	222.00	1999 
+120 Collins Street	Melbourne	222.00	1991 
+Pakubuwono Signature	Jakarta	222.00	2014 
+Raffles Square	Shanghai	222.00	2003 
+Grand 50 Tower	Kaohsiung	222.00	1992 
+Detroit Marriott at the Renaissance Center	Detroit	221.49	1977 
+Asia Square Tower 2	Singapore	221.48	2013 
+One Museum Park	Chicago	221.34	2009 
+Times Square Tower	New York City	221.29	2004 
+BSA Tower 1	Mandaluyong	221.20	2011 
+BSA Tower 2	Mandaluyong	221.20	2011 
+150 North Riverside	Chicago	221.07	2017 
+Fulbright Tower	Houston	221.03	1982 
+Parque Central Torre Este	Caracas	221.00	1979 
+Parque Central Torre Oeste	Caracas	221.00	1984 
+The Bay Gate	Dubai	221.00	2014 
+Ten Tower	Panama City	221.00	2011 
+BNY Mellon Center	Pittsburgh	220.98	1983 
+777 Tower	Los Angeles	220.98	1991 
+Jewelry Trade Center	Bangkok	220.70	1996 
+Angsana Suites Tower	Dubai	220.68	2007 
+Angsana Hotel Tower	Dubai	220.68	2008 
+St. Luke's Tower	Tokyo	220.63	1994 
+The Belcher's Tower 2	Hong Kong	220.58	2000 
+The Belcher's Tower 1	Hong Kong	220.58	2000 
+Landscape-Brilliant Center	Hefei	220.50	2016 
+Kempinski Hotel Chongqing, Tower A	Chongqing	220.50	2012 
+Westin Peachtree Plaza	Atlanta	220.37	1976 
+Wells Fargo Tower	Los Angeles	220.37	1983 
+Telkom Landmark Tower 2	Jakarta	220.20	2017 
+Seattle Municipal Tower	Seattle	220.07	1990 
+Equity Tower	Jakarta	220.00	2010 
+Zhongshan International Finance Center 1	Zhongshan	220.00	2012 
+Fujian International Financial Center	Fuzhou	220.00	2015 
+DC Tower 1	Vienna	220.00	2013 
+China Merchants Financial Center	Nanjing	220.00	2007 
+Zhongrong Jasper Tower	Shanghai	220.00	2008 
+Wyndham Centre	Chongqing	220.00	2016 
+Knightsbridge Residences	Makati	220.00	2014 
+Alphaland Makati Place	Makati	220.00	2016 
+Zhongshan International Finance Center 2	Zhongshan	220.00	2012 
+Yintai Center Tower 1	Chengdu	220.00	2017 
+The Pano	Bangkok	220.00	2010 
+Wanda East Port Tower 1	Dalian	220.00	2012 
+InterContinental Hotel West Bay	Doha	220.00	2012 
+The Summit	Hong Kong	219.80	2001 
+Parkson Plaza	Qingdao	219.70	1998 
+Circle on Cavill North Tower	Gold Coast City	219.50	2007 
+Fountain Place	Dallas	219.46	1986 
+C&D International Tower	Xiamen	219.40	2013 
+Kunming Iron & Steel Building	Kunming	219.30	2014 
+Royal Wan Xin International Mansion Tower A	Shenyang	219.00	2009 
+King of Towers	Dalian	219.00	2016 
+Sino Life Insurance Building	Shenzhen	219.00	2016 
+Revel Resort and Casino	Atlantic City	218.90	2012 
+Grand Promenade 2-5	Hong Kong	218.85	2005 
+Ligao Riverside International Building	Nanchang	218.60	2014 
+Figueroa at Wilshire	Los Angeles	218.54	1990 
+The Peak at Sudirman	Jakarta	218.54	2006 
+Guangdong Development Bank Building	Wuhan	218.50	2014 
+Metropolitan Tower	New York City	218.24	1987 
+Al Tijaria Tower	Kuwait City	218.20	2009 
+China Resources Center 1	Hefei	218.10	2016 
+Sorrento 3	Hong Kong	218.01	2003 
+Times Square	Shenzhen	218.00	2006 
+R&F International Center	Huizhou	218.00	2011 
+Nanhu Mingdu Plaza	Nanning	218.00	2013 
+White Tower	Panama City	218.00	2011 
+Fortune Tower	Shenzhen	218.00	2008 
+Onelink Center	Guangzhou	218.00	2010 
+Sheraton International Business Center 2	Chongqing	218.00	2010 
+Furama Tower	Dalian	218.00	2015 
+Sheraton International Business Center 1	Chongqing	218.00	2010 
+Shangmao Century Plaza	Nanjing	218.00	2002 
+Zhejiang Television Center	Hangzhou	218.00	2016 
+Shanghai Longemont Hotel	Shanghai	218.00	2005 
+Capital Place	Jakarta	218.00	2016 
+Ying Li International Plaza	Chongqing	218.00	2015 
+Golden Business Center	Shenzhen	218.00	2004 
+Chongqing Rural Commercial Bank Building	Chongqing	218.00	2016 
+New Century Grand Hotel	Hangzhou	218.00	2005 
+Hung Cheung Plaza	Shenzhen	218.00	2004 
+One Hundred East Fifty Third Street	New York City	217.90	2017 
+Liyuan Skyline City	Nanning	217.80	2013 
+Unicredit Tower	Milan	217.70	2012 
+Republic Plaza	Denver	217.63	1984 
+One Shell Plaza	Houston	217.63	1971 
+Etihad Tower 5	Abu Dhabi	217.50	2011 
+G.T. International Tower	Makati	217.20	2002 
+Graha Energi	Jakarta	217.02	2008 
+Shanghai Dong Hai Plaza	Shanghai	217.00	2005 
+International Towers 1	Sydney	217.00	2016 
+L'Arc New World Hotel	Macau	217.00	2009 
+Qingxiu Wanda Mansion 4	Nanning	216.40	2015 
+Qingxiu Wanda Mansion 1	Nanning	216.40	2015 
+AVIC Center Office Tower	Shenzhen	216.40	2013 
+1801 California Street	Denver	216.11	1983 
+Chifley Tower	Sydney	216.00	1992 
+Ningxia Gen Yuan International Center	Yinchuan	216.00	2017 
+Zhejiang International Building	Wuhan	216.00	2014 
+Jinzuo Plaza	Dalian	216.00	2000 
+Hopewell Centre	Hong Kong	216.00	1980 
+International Chamber of Commerce Tower	Shenzhen	215.95	2005 
+Terminal Tower	Cleveland	215.80	1930 
+Riviera TwinStar Square 1	Shanghai	215.80	2011 
+Riviera TwinStar Square 2	Shanghai	215.80	2011 
+Shiodome City Center	Tokyo	215.75	2003 
+Arady Residential Tower	Dubai	215.70	2015 
+Menara Felda	Kuala Lumpur	215.51	2012 
+JPMorgan Chase Tower	New York City	215.50	1960 
+Suncor Energy Centre 1	Calgary	215.19	1983 
+Central Park Tower	Singapore	215.01	2008 
+Tanhyun Doosan We've the Zenith 102	Goyang	215.00	2013 
+Arcadia Court R1	Tianjin	215.00	2014 
+Kempinski Residences	Jakarta	215.00	2008 
+Arcadia Court R3	Tianjin	215.00	2014 
+Tanhyun Doosan We've the Zenith 103	Goyang	215.00	2013 
+Tanhyun Doosan We've the Zenith 106	Goyang	215.00	2013 
+Arcadia Court R2	Tianjin	215.00	2014 
+Al Seef Tower	Dubai	215.00	2005 
+Al Fattan Tower	Dubai	215.00	2006 
+Oasis Beach Tower	Dubai	215.00	2006 
+Pentaport Residential Tower 1	Cheonan	215.00	2011 
+General Motors Building	New York City	214.89	1968 
+Bay Adelaide Centre West	Toronto	214.70	2009 
+Four Seasons Tower	Tianjin	214.60	2016 
+Sun Hung Kai Centre	Hong Kong	214.51	1981 
+The Belcher's Tower 3	Hong Kong	214.43	2000 
+The Belcher's Tower 8	Hong Kong	214.43	2001 
+Pabellón M	Monterrey	214.00	2015 
+Three Manhattan West	New York City	214.00	2017 
+Bakrie Tower	Jakarta	214.00	2009 
+Shangri-La Hotel Toronto	Toronto	214.00	2012 
+The Paramount	Panama City	214.00	2015 
+One Shenton Tower 1	Singapore	214.00	2011 
+Golden Eagle Plaza	Nanjing	214.00	1998 
+BankWest Tower	Perth	214.00	1988 
+Salesforce Tower	Indianapolis	213.67	1990 
+Metropolitan Life Tower	New York City	213.36	1909 
+Dentsu Headquarters Building	Tokyo	213.34	2002 
+Shangri-La Hotel	Hong Kong	213.31	1991 
+House on Mosfilmovskaya 1	Moscow	213.30	2012 
+International Finance Center 2	Jakarta	213.20	2016 
+City National Tower	Los Angeles	213.06	1972 
+Paul Hastings Tower	Los Angeles	213.06	1972 
+Victoria Towers 3	Hong Kong	213.00	2003 
+Victoria Towers 2	Hong Kong	213.00	2003 
+The Pinnacle	Jakarta	213.00	2008 
+Corniche Tower	Ajman	213.00	2011 
+Victoria Towers 1	Hong Kong	213.00	2003 
+Shijiazhuang No. 2 Telecommunication Hub	Shijiazhuang	213.00	2001 
+Shining Heights	Hong Kong	213.00	2009 
+St. Francis Tower 2	Mandaluyong	212.92	2009 
+St. Francis Tower 1	Mandaluyong	212.92	2009 
+Chancheng Greenland Center 2 Tower 1	Foshan	212.90	2017 
+Act Tower	Hamamatsu	212.76	1994 
+Wells Fargo Center	Denver	212.75	1983 
+Xiamen Financial Centre	Xiamen	212.70	2013 
+500 Fifth Avenue	New York City	212.45	1931 
+One Shell Square	New Orleans	212.45	1972 
+Georgia Pacific Tower	Atlanta	212.45	1981 
+Eighth Avenue Place, East Tower	Calgary	212.28	2011 
+Sorrento 5	Hong Kong	212.11	2003 
+Keangnam Hanoi Residential Tower 1	Hanoi	212.00	2011 
+Tanhyun Doosan We've the Zenith 101	Goyang	212.00	2013 
+Taikoo Hui Tower 1	Guangzhou	212.00	2011 
+King Tower	Shanghai	212.00	1996 
+Tianhebei Tower	Guangzhou	212.00	2015 
+World Finance Tower	Shanghai	212.00	2000 
+Keangnam Hanoi Residential Tower 2	Hanoi	212.00	2011 
+Cathay Life Xinyi A3	Taipei	212.00	2014 
+Tanhyun Doosan We've the Zenith 107	Goyang	212.00	2013 
+Sky Tower 1	Wrocław	212.00	2013 
+Wuhan International Trade Center	Wuhan	212.00	2003 
+Ritz-Carlton Jakarta	Jakarta	212.00	2005 
+Menara Maxis	Kuala Lumpur	212.00	1998 
+Centum Star B	Busan	212.00	2008 
+AMA Plaza	Chicago	211.84	1973 
+The Tower	Jakarta	211.80	2016 
+Poly Cultural Plaza	Wuhan	211.80	2012 
+Lifestyle Center, Tower 1	Shijiazhuang	211.60	2013 
+Torre Ejecutiva Pemex	Mexico City	211.31	1984 
+Pudong International Information Port	Shanghai	211.00	2001 
+Melbourne Central Office Tower	Melbourne	211.00	1991 
+Jahoo Hong Kong City	Chongqing	211.00	2008 
+Xindi Center Office Tower 1	Hefei	211.00	2014 
+Maxdo Centre	Shanghai	211.00	2002 
+Lee Garden One	Hong Kong	211.00	1998 
+Americas Tower	New York City	210.92	1992 
+The Orchard Residences	Singapore	210.90	2010 
+Jushang Plaza	Liuzhou	210.68	2014 
+Promenade II	Atlanta	210.62	1989 
+1400 Smith Street	Houston	210.52	1983 
+East Harbour Place Tower 2	Dalian	210.50	2017 
+Grosvenor House West Marina Beach	Dubai	210.40	2005 
+Shinjuku Sumitomo Building	Tokyo	210.30	1974 
+Solow Building	New York City	210.01	1974 
+Petron Megaplaza	Makati	210.00	1998 
+Metropolitan Tower B	Suzhou	210.00	2009 
+Harmonious Century Plaza 1	Kunming	210.00	2016 
+Harmonious Century Plaza 2	Kunming	210.00	2016 
+The Crescent City	Baku	210.00	2016 
+AmBank Tower	Kuala Lumpur	210.00	1998 
+Tour Montparnasse	Paris	210.00	1973 
+BDO Ortigas Tower	Mandaluyong	210.00	2015 
+CRC Tower	Bangkok	210.00	2002 
+Metropolitan Tower A	Suzhou	210.00	2009 
+Financial Street Nankai Center	Tianjin	210.00	2015 
+Hongji Commercial Center I	Tianjin	210.00	1999 
+One International Finance Centre	Hong Kong	210.00	1998 
+Peace Hotel, Tower B	Nanchang	210.00	2013 
+Crowne Plaza Chongqing, Tower 1	Chongqing	210.00	2014 
+Crowne Plaza Chongqing, Tower 2	Chongqing	210.00	2014 
+CNOOC New Tower 1	Shenzhen	210.00	2016 
+Al Rostamani Maze Tower	Dubai	210.00	2010 
+The Keraton	Jakarta	210.00	2009 
+Dubai Tower	Dubai	210.00	2011 
+Torre Aqualina	Panama City	210.00	2008 
+Moi Tiandi	Taiyuan	210.00	2015 
+CNOOC New Tower 2	Shenzhen	210.00	2016 
+Zhongshang Wanhao Center	Nanjing	210.00	2009 
+Excellence Houhai Financial Center	Shenzhen	210.00	2015 
+Grosvenor House The Residence	Dubai	210.00	2011 
+Le Reve	Dubai	210.00	2006 
+Majestic Tower	Sharjah	210.00	2009 
+Capital Plaza Residential Tower	Abu Dhabi	210.00	2011 
+21st Century Mansion	Shanghai	210.00	2009 
+HSBC Bank Building	New York City	209.70	1967 
+One Raffles Place, Tower 2	Singapore	209.60	2012 
+Ritz-Carlton Hotel & Residences	Toronto	209.50	2011 
+277 Park Avenue	New York City	209.40	1962 
+55 Water Street	New York City	209.40	1972 
+Wall Street Plaza	Nanchang	209.40	2014 
+The Beekman Hotel & Residences	New York City	209.40	2016 
+Navigation Tower	Doha	209.10	2011 
+Tower Palace One, Tower C	Seoul	209.10	2002 
+Trammell Crow Center	Dallas	209.10	1985 
+Tower Palace One, Tower A	Seoul	209.10	2002 
+Grand Promenade 6	Hong Kong	209.00	2005 
+Jiangsu TV Station Building	Nanjing	209.00	2007 
+Iset Tower	Yekaterinburg	209.00	2015 
+Hangzhou Telecom Mansion	Hangzhou	209.00	2003 
+Moresky360	Wuxi	209.00	2004 
+Shinjuku Nomura Building	Tokyo	209.00	1978 
+Piedmont Region Headquarters	Turin	209.00	2017 
+Oasis on the Bay	Panama City	209.00	2012 
+China Co-op Group Tower	Dalian	209.00	2016 
+Huabang World Trade City Tower 1	Hefei	209.00	2014 
+The Kitahama	Osaka	209.00	2009 
+Grand Promenade 1	Hong Kong	209.00	2005 
+Waldorf Astoria Chicago	Chicago	208.99	2010 
+Metro Plaza Tower 2	Hong Kong	208.93	1992 
+Three Allen Center	Houston	208.79	1980 
+1585 Broadway	New York City	208.79	1989 
+Random House Tower	New York City	208.49	2003 
+Marina Heights Tower	Dubai	208.40	2006 
+Farglory Financial Center	Taipei	208.30	2013 
+The Austonian	Austin	208.15	2010 
+Foshan International Plaza	Foshan	208.04	2008 
+Jian Yin Building Tower A	Wuhan	208.00	1998 
+Hilton Hotel Main Building	Dongguan	208.00	2017 
+Seaview Condominium M	Jakarta	208.00	2015 
+First Tower	Shenzhen	208.00	2001 
+Twin Tower 2	Doha	208.00	2017 
+Taiping Financial Tower	Shanghai	208.00	2011 
+Nanfang International Hotel	Shenzhen	208.00	2009 
+Twin Tower 1	Doha	208.00	2017 
+Wuhan Times Square	Wuhan	208.00	2007 
+Radisson Hotel Shanghai New World	Shanghai	208.00	2003 
+Jing Guang Center	Beijing	208.00	1990 
+The City Center @ Batavia City	Jakarta	208.00	2013 
+Summer Palace Tower A	Shenyang	208.00	2015 
+Seaview Condominium J	Jakarta	208.00	2015 
+Westendstraße 1	Frankfurt am Main	208.00	1993 
+Vertical City	Guangzhou	208.00	2010 
+Seaview Condominium L	Jakarta	208.00	2015 
+China Merchants Bank Mansion	Shanghai	208.00	2013 
+Hubin Plaza	Taiyuan	208.00	2014 
+International Ocean Shipping Building	Shanghai	208.00	2000 
+Seaview Condominium K	Jakarta	208.00	2015 
+Four Seasons Hotel	New York City	207.88	1993 
+J57 SkyTown	Changsha	207.80	2015 
+111 South Wacker	Chicago	207.64	2005 
+Far Eastern Banqiao Tower	New Taipei City	207.40	2013 
+Oceania Business Plaza 1	Panama City	207.30	2012 
+181 West Madison	Chicago	207.27	1990 
+Il Dritto	Milan	207.20	2015 
+Hyatt Center	Chicago	207.10	2005 
+Paradise by the River A	Chongqing	207.00	2005 
+Aurora	Brisbane	207.00	2006 
+Marina Crown	Dubai	207.00	2006 
+Paradise by the River C	Chongqing	207.00	2007 
+HSBC Tower	Panama City	207.00	2015 
+Paradise by the River B	Chongqing	207.00	2006 
+Sofitel Jin Jiang Oriental Pudong Hotel	Shanghai	207.00	2002 
+Tamani Hotel Marina	Dubai	207.00	2006 
+Seomyeon Central Star A	Busan	207.00	2011 
+Baiguan Plaza	Shaoxing	207.00	2012 
+Hanjiang International Tower	Wuhan	207.00	2014 
+Marquis	Miami	206.96	2009 
+Bay Wellington Tower	Toronto	206.96	1991 
+Marina Bay Sands Hotel	Singapore	206.90	2010 
+LyondellBassell Tower	Houston	206.80	1978 
+GT Land Landmark Plaza, North Tower	Guangzhou	206.80	2014 
+Ark Hills Sengokuyama Mori Tower	Tokyo	206.69	2012 
+PS100	Singapore	206.60	2016 
+Chongqing Plaza 1	Chongqing	206.50	2015 
+AT&T Building	Atlanta	206.35	1980 
+Ningbo International Trade Center	Ningbo	206.20	2010 
+Sorrento 6	Hong Kong	206.11	2003 
+Union Bank Plaza	Pasig	206.04	2004 
+Hotel Ukraine	Moscow	206.00	1955 
+Kempinski Hotel Wuxi	Wuxi	206.00	2007 
+Xinhua International Building	Chongqing	206.00	2011 
+Minyoun Financial Plaza	Chengdu	206.00	2012 
+Landmark	Shenzhen	206.00	2006 
+Sky	New York City	206.00	2015 
+Golden Landmark Building	Shanghai	206.00	2008 
+Jasmine International Tower	Nonthaburi	206.00	1997 
+EPH Headquarters	Zhengzhou	206.00	2012 
+East Pacific Center Tower C	Shenzhen	206.00	2010 
+Bellagio Tower 1-5	Hong Kong	206.00	2005 
+Citigroup Centre	Sydney	206.00	2000 
+Tanhyun Doosan We've the Zenith 108	Goyang	206.00	2013 
+Citibank Plaza	Hong Kong	205.50	1992 
+Haeundae I Park Marina Tower 3	Busan	205.46	2011 
+1221 Avenue of the Americas	New York City	205.44	1969 
+Tianjin Maoye Building	Tianjin	205.30	2016 
+One Magnificent Mile	Chicago	205.13	1983 
+One Grand Central Place	New York City	205.13	1930 
+Citicorp Building	New York City	205.10	1990 
+Barclay Tower	New York City	205.06	2007 
+The L Tower	Toronto	205.00	2014 
+Infinity Apartment @ District 8	Jakarta	205.00	2017 
+Four Seasons Place	Hong Kong	205.00	2005 
+Freshwater Place Residential Tower	Melbourne	205.00	2005 
+Metro Town Tower 1	Hong Kong	205.00	2006 
+Nan Zheng Mansion	Shanghai	205.00	1998 
+Wanyin International Tower 2	Hangzhou	205.00	2014 
+Jiahe Plaza	Dalian	205.00	2013 
+GranTokyo South Tower	Tokyo	205.00	2007 
+GranTokyo North Tower	Tokyo	205.00	2007 
+Metro Town Tower 2	Hong Kong	205.00	2006 
+Eternity Apartment @ District 8	Jakarta	205.00	2017 
+Le 1000 de la Gauchetière	Montreal	205.00	1992 
+340 on the Park	Chicago	204.90	2007 
+Zhongtian Exhibition City 1	Guiyang	204.80	2015 
+Zhongtian Exhibition City 2	Guiyang	204.80	2015 
+Cross Strait Exchange Center 1	Xiamen	204.70	2014 
+Cross Strait Exchange Center 2	Xiamen	204.70	2014 
+Paramount Plaza	New York City	204.22	1971 
+Hysan Place	Hong Kong	204.10	2012 
+Sichuan Airlines Plaza	Chengdu	204.00	2016 
+Tower 185	Frankfurt am Main	204.00	2011 
+The Troika Tower 3	Kuala Lumpur	204.00	2010 
+Park City Musashi-Kosugi Mid Sky Tower	Kawasaki	204.00	2009 
+Nassima Tower	Dubai	204.00	2010 
+World Trade Center	New York City	417	1971	2001 
+Tianjin CTF Finance Centre	Tianjin	530	2017
+Guangzhou CTF Finance Centre	Guangzhou	530	2016
+China Zun	Beijing	528	2018
