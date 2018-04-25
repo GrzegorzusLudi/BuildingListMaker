@@ -10,7 +10,9 @@ for example:
 World Trade Center	New York City	417	1971	2001 
 
 -files which have the same names as the the building declared in the list, for example "World Trade Center.png", their scale doesn't matter
--files with country flags (you must )
+-files with country flags (you must make some changes in in the script.py, there are comments starting in line 26)
 -a folder named "years" where subsequent frames of animation are created (if you are working on linux you must change \\ to / in line 176)
 
 Also, gif is created by ImageMagick
+
+You can also make a list of all buildings ever to appear in code from line 75.
